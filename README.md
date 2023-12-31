@@ -11,7 +11,7 @@ This Docker Compose configuration sets up a PostgreSQL database server using the
 1. Clone this repository:
 
    ```bash
-   wget https://github.com/sri-varshan14/postgres-docker-compose-example/blob/master/docker-compose.yml
+   wget wget https://github.com/sri-varshan14/postgres-docker-compose-example/blob/master/docker-compose.yml
    ```
 
 2. Create and start the PostgreSQL container:
